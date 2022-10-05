@@ -2,7 +2,7 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/2ndWatch/eks-gitops.git
+    repoURL: https://github.com/2ndWatch/eks-applications-gitops.git
     targetRevision: main
   ingress:
     host:
